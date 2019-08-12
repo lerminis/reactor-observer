@@ -1,0 +1,6 @@
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\bin\Debug\NuclearReactorObserverPattern.exe
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\bin\Debug\NuclearReactorObserverPattern.pdb
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\obj\Debug\NuclearReactorObserverPattern.csprojAssemblyReference.cache
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\obj\Debug\NuclearReactorObserverPattern.csproj.CoreCompileInputs.cache
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\obj\Debug\NuclearReactorObserverPattern.exe
+C:\Dev\NuclearReactorObserverPattern\NuclearReactorObserverPattern\obj\Debug\NuclearReactorObserverPattern.pdb
